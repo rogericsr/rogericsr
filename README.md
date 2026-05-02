@@ -24,7 +24,7 @@
 <img align="right" src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283930112-76687f51-ac99-48ef-a44b-dd11c1d78e7f.gif" width="250px"/>
 
 ```python
-class Kinsman:
+class rogericsr:
     role        = "UMSS Systems Engineering Student"
     focus       = "Red Team / Penetration Testing"
     os          = "Lubuntu", "Ubuntu", "Debian", "Windows 10"
