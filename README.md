@@ -89,5 +89,12 @@ Phase 3 ░░░░░░░░░░░░░░░░░░░░  [Active Di
 Phase 4 ░░░░░░░░░░░░░░░░░░░░  [Advanced Red Team]  → C2, evasion, custom tooling
 ```
 
+**🛡️ Certification Roadmap**
+
+![eJPT](https://img.shields.io/badge/eJPT-00AEEF?style=for-the-badge&logo=it&logoColor=white) ![arrow](https://img.shields.io/badge/→-black?style=for-the-badge) ![PNPT](https://img.shields.io/badge/PNPT-E31E24?style=for-the-badge&logo=hackthebox&logoColor=white) ![arrow](https://img.shields.io/badge/→-black?style=for-the-badge) ![OSCP](https://img.shields.io/badge/OSCP-191919?style=for-the-badge&logo=offensive-security&logoColor=white)
+
+
+---
+
 
 
