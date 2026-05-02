@@ -78,4 +78,16 @@ class Kinsman:
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 
+---
+
+## 🗺️ Red Team Roadmap
+
+```
+Phase 1 ████████████░░░░░░░░  [Foundations]        → Networking, Linux, Python scripting
+Phase 2 ████░░░░░░░░░░░░░░░░  [Web & Net Attacks]  → OWASP Top 10, PortSwigger, Recon
+Phase 3 ░░░░░░░░░░░░░░░░░░░░  [Active Directory]   → AD exploitation, lateral movement
+Phase 4 ░░░░░░░░░░░░░░░░░░░░  [Advanced Red Team]  → C2, evasion, custom tooling
+```
+
+
 
