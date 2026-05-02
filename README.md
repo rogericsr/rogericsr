@@ -111,3 +111,25 @@ Phase 4 ░░░░░░░░░░░░░░░░░░░░  [Advanced 
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space Shooter Contribution Graph"/>
 </p>
 
+---
+  
+## 🌐 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roger-eric-saldivar-rojas-31687932b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://profile.hackthebox.com/profile/019de621-80d7-72cb-8066-3df614e504b7)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rogerictober@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+[ SYSTEMS ONLINE ] · [ RECON MODE ACTIVE ] · [ LEARNING NEVER STOPS ]
+```
+
+*"The quieter you become, the more you are able to hear."* — Ram Dass
+
