@@ -97,4 +97,13 @@ Phase 4 ░░░░░░░░░░░░░░░░░░░░  [Advanced 
 ---
 
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rogericsr&theme=github-compact&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rogericsr&theme=chartreuse-dark&hide_border=true&background=0d1117)
+
+
 
