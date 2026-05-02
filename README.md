@@ -105,5 +105,9 @@ Phase 4 ░░░░░░░░░░░░░░░░░░░░  [Advanced 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rogericsr&theme=chartreuse-dark&hide_border=true&background=0d1117)
 
-
+</div>
+</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space Shooter Contribution Graph"/>
+</p>
 
